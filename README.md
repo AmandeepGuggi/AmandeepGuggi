@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer learner from India</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" width="400" align="right">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML,CSS,Javascript, React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
